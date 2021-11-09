@@ -3,6 +3,7 @@ import { useForm } from "react-hook-form";
 import "./Login.css";
 import image from '../pictures/image.png';
 import { Link } from "react-router-dom";
+// import { Switch, Route } from "react-router-dom";
 
 
 function Login() {

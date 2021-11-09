@@ -20,7 +20,7 @@ class App extends Component{
              <div className="App">
                 <div className="App-header">
                   <Switch>
-                    <Route path = "/login">
+                    <Route path = "/">
                          <Login userName = {this.userName}/>
                       </Route>
                       <Route path="/home">
