@@ -20,7 +20,7 @@ function Login() {
 		<div className="whole-container">
 			<div className="left-half-img-srs"></div>
 			<div className="Login-container-right-half">
-				<div className="header">PayMyBill</div>
+				<div className="header">Who Knew?</div>
 				<div className="content">
 					<form className="Form" onSubmit={handleSubmit(onSubmit)}>
 						<img src={image} alt="Avatar" className="avatar" />
